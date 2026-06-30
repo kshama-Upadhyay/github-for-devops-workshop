@@ -6,3 +6,4 @@ clear
 git status
 git add
 git commit -m "addedd testing files"
+git url
